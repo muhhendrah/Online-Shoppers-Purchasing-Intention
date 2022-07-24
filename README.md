@@ -30,6 +30,10 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 ---
 10 Models are tested with F2 Score as Evaluation Target with 0 value as a positive label to reduce False Negatives without completely ignoring the False Positives. Turns out the smallest False Negative goes to the `Light Gradient Boosting Machine - Hyperparameter Tuning model with 6.67% and 90.6% F2 Score with using only the top 4 predictors (Exit Rates, Administrative Pages, Product Related Pages Duration, and Product Related Pages)`.
 
+The final model will be used as decision support to offer discount to non-purchase predicted visitors with the following workflow.
+
+![Model Workflow](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/images/Model-Implementation-Workflow.png)
+
 ## Business Insights & Recommendation
 ---
 Based on the EDA and modeling we have done, we do the Root Cause Analysis and Sensitivity Analysis to help us to identify the fundamental problems and drive the optimal solutions.
