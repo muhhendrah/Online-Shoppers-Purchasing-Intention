@@ -28,7 +28,7 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 
 ## Modeling
 ---
-10 Models are tested with F2 Score as Evaluation Target with 0 value as a positive label to reduce False Negatives without completely ignoring the False Positives. Turns out the smallest False Negative goes to the `Light Gradient Boosting Machine - Hyperparameter Tuning model with 6.67% and 90.6% F2 Score with only the top 4 predictors (Exit Rates, Administrative Pages, Product Related Pages Duration, and Product Related Pages)`.
+10 Models are tested with F2 Score as Evaluation Target with 0 value as a positive label to reduce False Negatives without completely ignoring the False Positives. Turns out the smallest False Negative goes to the `Light Gradient Boosting Machine - Hyperparameter Tuning model with 6.67% and 90.6% F2 Score with using only the top 4 predictors (Exit Rates, Administrative Pages, Product Related Pages Duration, and Product Related Pages)`.
 
 ## Business Insights & Recommendation
 ---
