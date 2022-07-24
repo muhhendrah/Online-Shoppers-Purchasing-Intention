@@ -15,6 +15,7 @@ Lauk Fresh only has a `15,63%` conversion rate in the whole year 2021. We have t
 Lauk Fresh have some interesting insights from the EDA, there are :
 - Direct visits and google organic dominate the 18 types of traffic, it shows that visitor intentions and recommendations from google are still very relevant.
 - Majority of our visitors come from big cities and the top 3 are South Tangerang, Depok, and Jakarta.
+- The top 4 factors that affect the conversion rate are Exit Rates, Number of Administrative Pages, Product Related Pages Duration, and Number of Product Related Pages.
 
 ## Data Preprocessing
 ---
@@ -27,11 +28,15 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 
 ## Modeling
 ---
-10 Models are tested with F2 Score as Evaluation Target with 0 value as a positive label to reduce False Negatives without completely ignoring the False Positives. Turns out the smallest False Negative goes to the `Light Gradient Boosting Machine - Hyperparameter Tuning model with 6.67% and 90.6% F2 Score`.
+10 Models are tested with F2 Score as Evaluation Target with 0 value as a positive label to reduce False Negatives without completely ignoring the False Positives. Turns out the smallest False Negative goes to the `Light Gradient Boosting Machine - Hyperparameter Tuning model with 6.67% and 90.6% F2 Score with only the top 4 predictors (Exit Rates, Administrative Pages, Product Related Pages Duration, and Product Related Pages)`.
 
 ## Business Insights & Recommendation
 ---
-Recommendations :
+Based on the EDA and modeling we have done, we do the Root Cause Analysis to help us to identify the fundamental problems.
+
+
+
+Recommendations (Further recommendations explained in Final Presentation Deck):
 1. Discount Offering to Real-Time Non-Purchase Predicted Visitors
 2. Decrease 15% Exit Rates
 3. Increase 5% Administrative
