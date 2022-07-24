@@ -32,9 +32,9 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 
 ## Business Insights & Recommendation
 ---
-Based on the EDA and modeling we have done, we do the Root Cause Analysis to help us to identify the fundamental problems.
+Based on the EDA and modeling we have done, we do the Root Cause Analysis and Sensitivity Analysis to help us to identify the fundamental problems and drive the optimal solutions.
 
-
+![Root Cause Analysis](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/Root-Cause-Analysis.png)
 
 Recommendations (Further recommendations explained in Final Presentation Deck):
 1. Discount Offering to Real-Time Non-Purchase Predicted Visitors
@@ -43,4 +43,4 @@ Recommendations (Further recommendations explained in Final Presentation Deck):
 4. Increase 5% Product Related Duration
 5. Decrease 10% Product Related
 
-With implement all of this recommendations, Lauk Fresh has the potential to `increase conversion rate by 14.77% and increase gross profit by 95%`.
+With implementing all of those recommendations, Lauk Fresh has the potential to `increase conversion rate by 14.77% and increase gross profit by 95%`.
