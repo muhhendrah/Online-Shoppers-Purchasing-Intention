@@ -34,7 +34,11 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 ---
 Based on the EDA and modeling we have done, we do the Root Cause Analysis and Sensitivity Analysis to help us to identify the fundamental problems and drive the optimal solutions.
 
-![Root Cause Analysis](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/Root-Cause-Analysis.png)
+![Root Cause Analysis](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/images/Root-Cause-Analysis.png)
+
+![Sensitivity Analysis(1)](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/images/Sensitivity-Analysis(1).png)
+
+![Sensitivity Analysis(2)](https://github.com/muhhendrah/Online-Shoppers-Purchasing-Intention/blob/main/images/Sensitivity-Analysis(2).png)
 
 Recommendations (Further recommendations explained in Final Presentation Deck):
 1. Discount Offering to Real-Time Non-Purchase Predicted Visitors
