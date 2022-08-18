@@ -12,7 +12,7 @@ For now, our company only has a `15,63%` conversion rate in the whole year 2021.
 
 ## Exploratory Data Analysis
 ---
-Lauk Fresh have some interesting insights from the EDA, there are :
+We have some interesting insights from the EDA, there are :
 - Direct visits and google organic dominate the 18 types of traffic, it shows that visitor intentions and recommendations from google are still very relevant.
 - Majority of our visitors come from big cities and the top 3 are South Tangerang, Depok, and Jakarta.
 - The top 4 factors that affect the conversion rate are Exit Rates, Number of Administrative Pages, Product Related Pages Duration, and Number of Product Related Pages.
@@ -33,11 +33,11 @@ Lauk Fresh have some interesting insights from the EDA, there are :
 ## Business Insights & Recommendation
 ---
 
-Recommendations (Further recommendations explained in Final Presentation Deck):
-1. Discount Offering to Real-Time Non-Purchase Predicted Visitors
-2. Decrease 15% Exit Rates
-3. Increase 5% Administrative
-4. Increase 5% Product Related Duration
-5. Decrease 10% Product Related
+Recommendations:
+1. Prioritizing existing resources to improve, promote, and advertise in Kota Tangerang Selatan, Depok, and Jakarta for marketing purposes
+2. Discount Offering to Real-Time Non-Purchase Predicted Visitors
+3. Improving the UI/UX platform/website
 
-With implementing all of those recommendations, Lauk Fresh has the potential to `increase conversion rate by 14.77% and increase gross profit by 95%`.
+With implementing the recommendations, our company has the potential to `increase the conversion rate from 15.63% up to 23.32% and increase the company’s gross profit up to 17%`.
+
+Find the Full Explanation [here](https://medium.com/@muhhendrah/online-shoppers-purchasing-intention-prediction-for-higher-conversion-rate-using-machine-learning-6765cb0fbad2)
