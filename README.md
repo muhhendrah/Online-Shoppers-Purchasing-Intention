@@ -41,4 +41,5 @@ Recommendations:
 With implementing the recommendations, our company has the potential to `increase the conversion rate from 15.63% up to 23.32% and increase the company’s gross profit up to 17%`.
 
 ---
-Find the Full Explanation [here](https://medium.com/@muhhendrah/online-shoppers-purchasing-intention-prediction-for-higher-conversion-rate-using-machine-learning-6765cb0fbad2)
+
+Full Explanation : [Online Shoppers Purchasing Intention Prediction for Higher Conversion Rate using Machine Learning (E-Grocery Startup Case)](https://medium.com/@muhhendrah/online-shoppers-purchasing-intention-prediction-for-higher-conversion-rate-using-machine-learning-6765cb0fbad2)
