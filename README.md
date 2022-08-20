@@ -1,6 +1,6 @@
 # Online-Shoppers-Purchasing-Intention
 ---
-*Tools : Python, Google Colab, Git, Numpy, Pandas, Scipy, Scikit-Learn*
+*Tools : Python, Google Colab, Git, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-Learn*
 
 Data Source : [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 
