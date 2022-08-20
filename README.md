@@ -1,5 +1,7 @@
 # Online-Shoppers-Purchasing-Intention
 ---
+*Tools : Python, Google Colab, Git, Numpy, Pandas, Scipy, Scikit-Learn*
+
 Data Source : [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 
 Our company is an e-grocery startup that provides groceries products online. We came up by seeing the great potential of e-grocery data to produce a 36% increase in CR (2020 vs 2021) and of course, we can use this to generate profits through increased conversion rates. Moreover, a phenomenon that has emerged recently is the Start-up bubble with one of the causes: too much dependence on investors. So we need to think about how to make our e-commerce ecosystem profitable and survive in the rampant competition.
